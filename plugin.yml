@@ -1,0 +1,9 @@
+name: NicknameWhitelist
+main: ru.ocelotjungle.nicknamewhitelist.Main
+version: 1
+description: Whitelist using player names not UUIDs
+commands:
+  nwhitelist:
+    description: reload player names list
+    usage: /nwhitelist
+    permission: op
